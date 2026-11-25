@@ -9,6 +9,7 @@
 
 #include "h2_config.hpp"
 
+#include <algorithm>
 #include <cstdlib>
 #include <iostream>
 #include <sstream>
