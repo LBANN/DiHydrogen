@@ -9,6 +9,8 @@
 
 #include <unistd.h>
 
+#include <algorithm>
+
 #include "spdlog/pattern_formatter.h"
 #include <sys/types.h>
 
